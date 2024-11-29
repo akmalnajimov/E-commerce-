@@ -1,3 +1,3 @@
 # E-commerce-
-E-commerce for techniques
+Full E-commerce project in jsp for techniques
 
